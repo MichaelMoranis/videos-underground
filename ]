@@ -1,0 +1,15 @@
+import "./App.css";
+
+function App() {
+  return (
+    <>
+      <div className="font-bold text-blue-500 text-3xl">
+        michael conseguiu configurar o lazyvim corretamente !!
+        <input type="text" placeholder="digite qualquer coisa" />
+      </div>
+      <button>enviar</button>
+    </>
+  );
+}
+
+export default App;
